@@ -7,13 +7,13 @@
 
 .parties-view
 {
-    background: url(https://media5.sgp1.digitaloceanspaces.com/wp-content/uploads/2021/11/13084724/1360X768-Anime-Wallpapers.jpg) !important;
+    background: url(https://de4-dev.github.io/ct2.jpg) !important;
 }
 .parties-view .parties-background {
     opacity:0;
 }
 .collections-application{
-    background: url(https://media5.sgp1.digitaloceanspaces.com/wp-content/uploads/2021/11/13084724/1360X768-Anime-Wallpapers.jpg) !important;
+    background: url(https://de4-dev.github.io/ct2.jpg) !important;
 }
 
 div[data-screen-name='rcp-fe-lol-navigation-screen'] {
@@ -51,7 +51,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     -webkit-user-drag: none;
     -webkit-user-select: none;
     background-color:transparent !important;
-    background:url('https://media5.sgp1.digitaloceanspaces.com/wp-content/uploads/2021/11/13084724/1360X768-Anime-Wallpapers.jpg')!important;
+    background:url('https://de4-dev.github.io/ct2.jpg')!important;
     box-shadow: inset 0px 0px 150px  rgba(255, 255, 255, 0.2) ;        
     border-radius:20px 20px 0px 0px;
 }
